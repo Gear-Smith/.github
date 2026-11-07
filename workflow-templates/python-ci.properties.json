@@ -1,0 +1,6 @@
+{
+  "name": "Python CI",
+  "description": "Run Python tests on pull requests and main branches.",
+  "iconName": "python",
+  "categories": ["Python", "Testing"]
+}

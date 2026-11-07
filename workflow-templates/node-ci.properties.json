@@ -1,0 +1,6 @@
+{
+  "name": "Node CI",
+  "description": "Install dependencies and run Node.js tests on pull requests and main branches.",
+  "iconName": "node",
+  "categories": ["JavaScript", "TypeScript", "Testing"]
+}
